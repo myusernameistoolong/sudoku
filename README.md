@@ -2,6 +2,8 @@
 
 This is a C# console application that allows users to play and solve Sudoku puzzles. The main focus of the project is a custom-built AI that can solve Sudoku puzzles efficiently using **recursion** and **backtracking** algorithms.
 
+> This project was developed as part of a school assignment for an **Artificial Intelligence** course.
+
 ## Features
 
 - ✅ Console interface for inputting and solving Sudoku puzzles  
